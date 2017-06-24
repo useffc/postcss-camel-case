@@ -1,4 +1,4 @@
-# postcss-camel-case
+# postcss-camel-case [![CircleCI](https://circleci.com/gh/useffc/postcss-camel-case/tree/master.svg?style=svg&circle-token=92cea90904c3a3472afc23cba865c1d9f7e66d8b)](https://circleci.com/gh/useffc/postcss-camel-case/tree/master)
 PostCSS plugin to convert CSS selector names to camelCase
 
 Turns `.block_element--modifier` into `.blockElementModifier`. Basically the plugin converts any class names with `-`, `_` punctuations into `camelCase` style.
